@@ -2,4 +2,4 @@
 
 Slide example
 
-Live Site URL: 
+Live Site URL: https://gabedavaa.github.io/First-Slide/
